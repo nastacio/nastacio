@@ -14,4 +14,4 @@ I have written a lot of code in Java, C, C++, Python, and Shell Scripting.
 
 Nowadays, I am still interested in deeply technical subjects such as [Kubernetes probes](https://sourcepatch.blogspot.com/2022/01/kubernetes-probes-part-3-promql.html) and [GitOps](https://sourcepatch.blogspot.com/search/label/gitops), though I also spend some time in higher abstractions that affect the way technical folks relate to their work, such as in ["What is the hardest thing in software development?"](https://nastacio.github.io/naming-reality) and ["Technical Debt"](https://nastacio.github.io/debt)
 
-You can read my technical articles and essays at [https://nastacio.github.io/blogs](https://nastacio.github.io/blogs.html).
+You can read my technical articles and essays in my website at [https://nastacio.github.io](https://nastacio.github.io).
