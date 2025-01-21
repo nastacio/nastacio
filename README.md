@@ -2,7 +2,7 @@
 
 ![Sticky figure sitting at a desk, with back turned to reader's perspective. City sky outline in the distant background.](images/main.png)
 
-Hi, my name is Denilson Nastacio, and I work in tech for Big Co (IBM.) You can find my professional information on [Linked In](https://www.linkedin.com/in/nastacio/), but here are some highlights.
+Hi, my name is Denilson Nastacio, and I work in tech for Big Co (IBM.) You can find my professional information on [LinkedIn](https://www.linkedin.com/in/nastacio/), but here are some highlights.
 
 I started in 1997 and had fantastic opportunities to work on fun things, such as locating hardware in a data center using air temperature (ask me about it) and training an Artificial Intelligence to find treatments for cancer patients (ask me about it too!)
 
